@@ -1,0 +1,2 @@
+# django
+Basic Practice Applications
